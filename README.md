@@ -1,0 +1,15 @@
+
+We started this adventure to work on a devops project when it was found we were deprecating a unlicensed add-in to a customer's source code.
+
+How to Setup and Use:
+---------------------
+Requires PowerShell
+This is a quick and dirty way of searching line by line through text files and locating specified text in an input file. 
+Modify the Patterns.txt file
+Follow the usage statements to pass in the correct parameters
+- If testing, use the override section and take off comments
+Execute .\SearchAllFilesforPatterns.ps1
+
+
+
+
