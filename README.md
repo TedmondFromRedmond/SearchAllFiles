@@ -4,8 +4,8 @@ We started this adventure to work on a devops project when it was found we were 
 How to Setup and Use:
 ---------------------
 Requires PowerShell 5.x or higher.
-This is a quick and dirty way of searching line by line through text files and locating specified text in an input file. 
-Modify the Patterns.txt file
+This is a quick and dirty way of searching line by line through text files and locating specific text in an input file. e.g. searching for password or mggraph in source code is possible with this tool.
+Modify the Patterns.txt file to adjust the patterns searched for in each document.
 Follow the usage statements to pass in the correct parameters
 - If testing, use the override section and take off comments
 Execute SearchAllFilesforPatterns.ps1 [with parms]
